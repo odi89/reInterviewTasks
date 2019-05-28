@@ -1,0 +1,22 @@
+Comments to the code in this repo
+When trying to solve the tasks in this repo i have taken som prerequisite
+
+//these are:
+1.
+In the code i have purposely included some undefined variables and functions
+these are linked to the dom-elements refered to in the task_for_interview.pdf 
+for example: the "newDivElement" in task1 is ment to be the random element that 
+gets appended to the dom 
+
+2.
+I have left a whole bunch of comments and some of my console.logs to try to explain my tought process and hopefully makes it a little bit easier for you to read my code
+
+3.
+There will be some spelling mistakes(hopefully not any critical typos that affect the code, but hopefully just typos and some badly written engish comments)
+
+
+/////////////////
+Happy code review! 
+Thanks for the oportunity it has been fun!
+Sebastian
+
